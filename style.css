@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Anton', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Mooli', sans-serif;
+font-family: 'Send Flowers', cursive;
+}p{
+    font-family: 'Anton', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Mooli', sans-serif;
+font-family: 'Send Flowers', cursive;
+font-family: 'Yellowtail', cursive;
+}
+hr{
+    height: 4px;
+    background-color: pink;
+    border-color: pink;
+}
